@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ClaudioDavi/claudiodavi.github.io.git
+	branch = master
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/ClaudioDavi/hugo-book
