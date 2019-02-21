@@ -1,6 +1,43 @@
+---
+bookShowToc: true
+title: Python
+description: Dicas sobre Python
+tags:
+  - Python
+  - tips
+  - dicas
+  - programação
+  - software
+  - desenvolvedor de software
+---
+
 # Python
 
 ---
+
+## Pacotes para Data Science
+
+Obrigatórios:
+`pandas`
+`numpy`
+`matplotlib`
+`Sckit-Learn`
+
+Machine Learning
+`Tensorflow`
+`PyTorch`
+
+Facilitam a vida:
+`pandas-profiling`
+`keras`
+`auto-keras`
+`AdaNet`
+
+Visualização
+`seaborn`
+`bokeh`
+
+## Easter Eggs
 
 O Python tem um easter egg muito bom, abra seu console e digita `import this`.
 O resultado é conhecido como Zen of Python, que foi criado para guiar os princípios de desenvolvimento da própria linguagem. Muitos (eu incluso) utilizo o Zen of Python para guiar o design dos meus próprios projetos.

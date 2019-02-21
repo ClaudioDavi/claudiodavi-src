@@ -29,3 +29,11 @@ weight: 1
 >
 > 1. Are unrealistically close to best case scenarios
 > 2. Could be improved by consulting statistics of similar cases"
+
+**Sapiens**
+
+> “Consistency is the playground of dull minds.”
+
+> “Hierarchies serve an important function. They enable complete strangers to know how to treat one another without wasting the time and energy needed to become personally acquainted.”
+
+> “Biology enables, Culture forbids.”
