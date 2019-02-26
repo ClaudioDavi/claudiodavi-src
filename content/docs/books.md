@@ -11,7 +11,7 @@ weight: 1
 - Beyond Good and Evil
 - The Gene
 - AI Superpowers
-- Sapiens
+- ~~Sapiens~~
 - Nudge
 - Machine Learning Yearning
 - Outliers
