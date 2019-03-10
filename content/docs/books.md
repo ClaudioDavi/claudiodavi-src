@@ -10,12 +10,14 @@ weight: 1
 - ~~Thinking Fast and Slow~~
 - Beyond Good and Evil
 - The Gene
-- AI Superpowers
+- ~~AI Superpowers~~
 - ~~Sapiens~~
 - Nudge
 - Machine Learning Yearning
 - Outliers
 - The Hundred Pages Machine Learning Book
+- Antifragile
+- Black Swan
 
 ## Frases que merecem nota
 

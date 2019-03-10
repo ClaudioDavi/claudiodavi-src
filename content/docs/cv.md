@@ -34,7 +34,7 @@ _**Habilidades**_
 _**claudiodavi.com | claudiodavi.com.br**_
 
 - Criar conteúdo nas áreas de desenvolvimento de software e ciência de dados
-- Manter notas de estudos e resenhas de livros
+- Manter notas de estudos e opiniões e dicas em geral para aspirantes e profissionais de Desenvolvimento de Software e Inteligência Artificial.
 
 _**Car Tracker & Counter**_
 
@@ -55,7 +55,7 @@ _**Gofind Online S.A**_ - Cientista de Dados
 
 _Outubro 2018 - Presente_
 
-- Criar e manter modelos de Machine Learning
+- Criar e manter modelos de Machine Learning desde a sua concepção até sua implantação na AWS
 - Integrar serviços de dados empregando boas praticas de manutenção de dados
 - Amadurecer a cultura de dados
 - Desenvolvimento de produtos de dados.

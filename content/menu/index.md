@@ -5,8 +5,8 @@ headless: true
 _Ceticismo de Dados_
 
 - [**Blog**]({{< ref "/posts" >}})
-- [Tutoriais e Anotações]({{< ref "/docs/python.md" >}})
-  - [Notas]({{< ref "/docs/notes.md" >}})
+- [Tutoriais e Anotações]({{< ref "/docs/notes.md" >}})
+  - [Dicas em Data Science]({{< ref "/docs/notes.md" >}})
   - [Python]({{< ref "/docs/python.md" >}})
   - [Matemática] ({{< ref "/docs/math.md" >}})
   - [Livros e Referencias]({{< ref "/docs/books.md">}})

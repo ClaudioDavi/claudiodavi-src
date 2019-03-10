@@ -96,3 +96,11 @@ A Figura 7. nos mostra uma média de 92% de acerto para _precision_ e _recall_, 
 Marcelo tem 25 anos, fica em média 240 minutos (4 horas) na internet por dia e passa cerca de 30 minutos no nosso site. Ele vive em uma área da sua cidade onde a média salarial anual é de R\$25.000,00. Nossos dados de entrada então seriam: `[30,25,25000,240,1]`. Neste caso, muito provavelmente Marcelo não clicaria na propaganda, nosso modelo retorna uma probabilidade de 87.5% de chance de ignorar o AD e 12.5% de chance do Marcelo interagir com ele.
 
 Regressão logística é a técnica de regressão padrão para quem precisa que a saída sejam dados binários. É bastante utilizada em análise preditiva e para descrever a relação entre variáveis lineares e nominais com uma saída binária.
+
+</br>
+</br>
+
+---
+
+</br>
+Se você gostou desse texto e gostaria de ler mais postagens sobre Machine Learning Aplicado, Engenharia de Software e afins, clique nos links ao lado. Qualquer perguntas que você tenha, pode me mandar via Twitter em @claudiodavi ou e-mail em cdavisouza [@] gmail.com . Eu sempre respondo!

@@ -106,3 +106,11 @@ Depois disso só precisamos passar o resultado para o arquivo de saída. O segui
     json.dump(list_of_results, outfile)
 
 Com isso, eu consegui resolver o meu problema e ainda com esse mesmo script, eu posso enfrentar problemas parecidos sem perder tempo nenhum. É importante lembrar que esse código não tem o melhor desempenho, e eu acredito que pode ser melhorado. Existem situações onde é simplesmente inviável fazer essa comparação (tentei com strings de mais de 4mil caracteres e demorou pelo menos algumas horas pra executar). Portanto use por sua conta e risco.
+
+</br>
+</br>
+
+---
+
+</br>
+Se você gostou desse texto e gostaria de ler mais postagens sobre Machine Learning Aplicado, Engenharia de Software e afins, clique nos links ao lado. Qualquer perguntas que você tenha, pode me mandar via Twitter em @claudiodavi ou e-mail em cdavisouza [@] gmail.com . Eu sempre respondo!

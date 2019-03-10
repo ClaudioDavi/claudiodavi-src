@@ -92,3 +92,11 @@ Figura 6. Florestas Randômicas
 Como a precisão é a mesma do modelo anterior podemos verificar que o recall do modelo é bem mais alto para bons pagadores (0), portanto existe uma melhora mas não muito significativa. Por via das dúvidas eu testei 2 outros modelos para verificar se conseguíamos melhorar esse resultado, porém sem sucesso. Os modelos testados foram: Multinomial Naive Bayes e Linear Support Vector Machines.
 
 No post de hoje, analisamos dados reais da plataforma Lending Club e tentamos predizer se um empréstimo seria pago por completo ou não, dadas as entradas. Utilizamos Decision Trees e Random Forests para avaliar os dados e conseguimos um resultado aceitável para avaliação de crédito de um usuário e análise de risco de inadimplência.
+
+</br>
+</br>
+
+---
+
+</br>
+Se você gostou desse texto e gostaria de ler mais postagens sobre Machine Learning Aplicado, Engenharia de Software e afins, clique nos links ao lado. Qualquer perguntas que você tenha, pode me mandar via Twitter em @claudiodavi ou e-mail em cdavisouza [@] gmail.com . Eu sempre respondo!

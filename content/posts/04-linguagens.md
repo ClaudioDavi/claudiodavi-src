@@ -26,3 +26,11 @@ Mais importante do que saber 8 linguagens de programação em 4 paradigmas difer
 Isso obviamente não é para te desencorajar de aprender novas linguagens, longe disso, eu mesmo já busquei diversas. Comecei com Java na faculdade, achava muito verboso e mudei pro _Ruby_, consegui um emprego onde eu programava em _Java_ e algumas coisas em _PHP_, já fiz freela em _C#_ mas no fim me apaixonei por _Python_ e hoje tento melhorar principalmente nessa ultima. O que eu quero dizer é o seguinte:
 
 > ## Você realmente precisa aprender mais uma linguagem de programação?
+
+</br>
+</br>
+
+---
+
+</br>
+Se você gostou desse texto e gostaria de ler mais postagens sobre Machine Learning Aplicado, Engenharia de Software e afins, clique nos links ao lado. Qualquer perguntas que você tenha, pode me mandar via Twitter em @claudiodavi ou e-mail em cdavisouza [@] gmail.com . Eu sempre respondo!

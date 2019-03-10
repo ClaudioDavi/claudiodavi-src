@@ -127,3 +127,12 @@ Melhorar a experiência do Website para tentar melhorar o retorno.
 Evoluir o aplicativo para que as pessoas passem mais tempo nele.
 Benefícios para membros mais antigos, para manter a fidelidade.
 Regressão linear é uma das primeiras técnicas que aprendemos quando estudamos Machine Learning e muitos esquecem do quanto ela pode ser útil e poderosa. No caso acima, conseguimos entregar alternativas e informações de bastante valor para uma empresa com problemas reais.
+
+
+</br>
+</br>
+
+---
+
+</br>
+Se você gostou desse texto e gostaria de ler mais postagens sobre Machine Learning Aplicado, Engenharia de Software e afins, clique nos links ao lado. Qualquer perguntas que você tenha, pode me mandar via Twitter em @claudiodavi ou e-mail em cdavisouza [@] gmail.com . Eu sempre respondo!
