@@ -4,6 +4,7 @@ headless: true
 
 _Ceticismo de Dados_
 
+- [**Game Dev The Game**]({{ ref "/game"}})
 - [**Blog**]({{< ref "/posts" >}})
 - [Tutoriais e Anotações]({{< ref "/docs/notes.md" >}})
   - [Dicas em Data Science]({{< ref "/docs/notes.md" >}})
